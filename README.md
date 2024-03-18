@@ -14,7 +14,7 @@ In their existing market, the sales team has classified all customers into 4 seg
 </h4>
 
 ## Neural Network Model
-![image](https://github.com/Praveen0500/nn-classification/assets/120218611/aee7bc70-25ea-44bd-b16f-437b96ee52b2)
+![image](https://github.com/Asilsathik/nn-classification/assets/119476247/a45a72d9-5336-4019-ae78-912e9d540b73)
 
 
 
